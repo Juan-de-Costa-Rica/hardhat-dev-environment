@@ -1,17 +1,23 @@
 # Hardhat Dev Environment
 
-    node.js: v16.14.0
-    
-    hardhat: 2.9.3
-    
-    solidity: 0.8.4
+* **node: 16.14.0**
 
-    @nomiclabs/hardhat-ethers: ^2.0.0
-    @nomiclabs/hardhat-waffle: ^2.0.0
-    chai: ^4.2.0
-    ethereum-waffle: ^3.0.0
-    ethers: ^5.0.0
-    
+* **hardhat: 2.9.3**
+
+* **solidity: 0.8.4**
+
+
+@nomiclabs/hardhat-ethers: ^2.0.0
+
+@nomiclabs/hardhat-waffle: ^2.0.0
+
+chai: ^4.2.0
+
+ethereum-waffle: ^3.0.0
+
+ethers: ^5.0.0
+
+----    
 
 # Basic Sample Hardhat Project
 
